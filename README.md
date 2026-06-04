@@ -113,17 +113,29 @@ print("Nice to meet you! Let's connect and build.")
 
 ## 📊 GitHub Stats
 
+<!-- ── GitHub Profile Summary Cards (github-profile-summary-cards.vercel.app)
+     More reliable than github-readme-stats for newer/low-activity accounts ── -->
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MdAashif-h&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38BDAE&icon_color=bf91f3&text_color=c9d1d9&border_radius=12"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdAashif-h&layout=donut&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=38BDAE&text_color=c9d1d9&langs_count=8&border_radius=12"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MdAashif-h&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MdAashif-h&theme=dark&hide_border=true&background=0D1117&ring=38BDAE&fire=FFA116&currStreakLabel=38BDAE&sideLabels=bf91f3&dates=8B949E&currStreakNum=ffffff&sideNums=ffffff&stroke=0D1117&border_radius=12)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MdAashif-h&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MdAashif-h&theme=tokyonight"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MdAashif-h&theme=tokyonight"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MdAashif-h&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
@@ -143,7 +155,12 @@ print("Nice to meet you! Let's connect and build.")
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=MdAashif-h&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+![Commits](https://img.shields.io/badge/2026_Commits-46-38BDAE?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public_Repos-9-bf91f3?style=for-the-badge&logo=github&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode_Solved-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![Hackathon](https://img.shields.io/badge/Hexaware_2025-Runner--Up_🥈-gold?style=for-the-badge)
+![SIH](https://img.shields.io/badge/SIH_2024-Top_20-38BDAE?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-8.55%2F10-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white)
 
 </div>
 
@@ -267,8 +284,7 @@ Python-based keystroke logger for controlled security audit environments. Uses e
 [![LeetCode](https://img.shields.io/badge/LeetCode-aashif__stark-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aashif_stark/)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faree.aashif@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-MdAashif--h-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdAashif-h)
+
 
 </div>
 
